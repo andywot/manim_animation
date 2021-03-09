@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/3163782288_1793439482_705998768.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/1495979052_2014369412_705998768.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/1495979052_4180579860_2319168060.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/1495979052_863888470_1564058925.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/1495979052_3716942833_2812945431.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/velocity_formula_derivation/480p15/partial_movie_files/formula_derviation/1495979052_4180579860_2721132919.mp4'

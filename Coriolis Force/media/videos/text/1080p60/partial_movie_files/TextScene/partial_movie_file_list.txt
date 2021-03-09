@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/text/1080p60/partial_movie_files/TextScene/450974505_4208383623_1805513108.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/text/1080p60/partial_movie_files/TextScene/2788726626_4180579860_3564553691.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/text/1080p60/partial_movie_files/TextScene/2788726626_3358490603_1805513108.mp4'
+file 'file:C:/Users/AndyWu/PycharmProjects/manim_presentation_video/media/videos/text/1080p60/partial_movie_files/TextScene/2788726626_4180579860_223132457.mp4'
